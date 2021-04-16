@@ -36,7 +36,7 @@ class DefaultController extends AbstractController
 
     {
 
-        return new Response('<b>Hello Deepak from default2</b>');
+//        return new Response('<b>Hello Deepak from default2</b>');
 
     }
 
